@@ -1,6 +1,6 @@
-# Hello, I'm John Doe 👋
+# Hello, I'm Xolani Mthembu 👋
 
-I'm a passionate software engineer with a strong background in full-stack web development. I enjoy working on challenging projects and learning new technologies.
+I'm a passionate front-end web dev with solid knowlegde in UX design as well. I enjoy working on challenging projects and learning new technologies.
 
 ## Skills and Expertise
 
