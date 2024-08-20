@@ -5,7 +5,7 @@ I'm a passionate front-end web dev with solid knowlegde in UX design as well. I 
 ## Skills and Expertise
 
 - Programming Languages: HTML, CSS and JavaScript
-- Frameworks and Libraries: React
+- Frameworks and Libraries: React, Svelte
 
 ## GitHub Stats
 
