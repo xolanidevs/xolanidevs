@@ -10,11 +10,6 @@ I'm a passionate front-end web dev with solid knowlegde in UX design as well. I 
 ## GitHub Stats
 
 
-## Featured Projects
-
-1. **Project A**: A modern web application built with Vite, Vanilla JS. [View Repository](https://github.com/)
-
-
 ## Contributions
 
 
