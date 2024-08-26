@@ -7,16 +7,6 @@ I'm a passionate front-end web dev with solid knowlegde in UX design as well. I 
 - Programming Languages: HTML, CSS and JavaScript
 - Frameworks and Libraries: React, Svelte
 
-## GitHub Stats
-
-
-## Contributions
-
-
-## Contact Me
-
-- Email: xolanimthembu412@gmail.com
-- LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/xolani-mthembu-800167293/)
 
 <!--
 **xolanidevs/xolanidevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
